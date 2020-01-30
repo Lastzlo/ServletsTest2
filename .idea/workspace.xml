@@ -207,10 +207,14 @@
       <screen x="0" y="30" width="1536" height="834" />
     </state>
     <state x="260" y="30" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.30.1536.834@0.30.1536.834" timestamp="1580325405016" />
-    <state x="320" y="30" key="CommitChangelistDialog2" timestamp="1580371935168">
+    <state x="320" y="30" key="CommitChangelistDialog2" timestamp="1580372654733">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
-    <state x="320" y="30" key="CommitChangelistDialog2/0.30.1536.834@0.30.1536.834" timestamp="1580371935168" />
+    <state x="320" y="30" key="CommitChangelistDialog2/0.30.1536.834@0.30.1536.834" timestamp="1580372654733" />
+    <state x="93" y="123" width="1350" height="648" key="DiffContextDialog" timestamp="1580372678876">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="93" y="123" width="1350" height="648" key="DiffContextDialog/0.30.1536.834@0.30.1536.834" timestamp="1580372678876" />
     <state x="499" y="145" key="FileChooserDialogImpl" timestamp="1580325394391">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
@@ -267,9 +271,9 @@
       <screen x="0" y="30" width="1536" height="834" />
     </state>
     <state x="161" y="30" key="SettingsEditor/0.30.1536.834@0.30.1536.834" timestamp="1580371421280" />
-    <state x="546" y="345" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580371636004">
+    <state x="546" y="345" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580372634345">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
-    <state x="546" y="345" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.30.1536.834@0.30.1536.834" timestamp="1580371636004" />
+    <state x="546" y="345" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.30.1536.834@0.30.1536.834" timestamp="1580372634345" />
   </component>
 </project>
