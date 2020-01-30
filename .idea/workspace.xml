@@ -181,6 +181,16 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
@@ -207,10 +217,10 @@
       <screen x="0" y="30" width="1536" height="834" />
     </state>
     <state x="260" y="30" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.30.1536.834@0.30.1536.834" timestamp="1580325405016" />
-    <state x="320" y="30" key="CommitChangelistDialog2" timestamp="1580372654733">
+    <state x="38" y="30" width="1403" height="834" key="CommitChangelistDialog2" timestamp="1580372841117">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
-    <state x="320" y="30" key="CommitChangelistDialog2/0.30.1536.834@0.30.1536.834" timestamp="1580372654733" />
+    <state x="38" y="30" width="1403" height="834" key="CommitChangelistDialog2/0.30.1536.834@0.30.1536.834" timestamp="1580372841117" />
     <state x="93" y="123" width="1350" height="648" key="DiffContextDialog" timestamp="1580372678876">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
@@ -267,6 +277,10 @@
       <screen x="0" y="30" width="1536" height="834" />
     </state>
     <state width="472" height="141" key="GridCell.Tab.2.right/0.30.1536.834@0.30.1536.834" timestamp="1580327490381" />
+    <state x="469" y="91" key="RollbackChangesDialog" timestamp="1580372837249">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="469" y="91" key="RollbackChangesDialog/0.30.1536.834@0.30.1536.834" timestamp="1580372837249" />
     <state x="161" y="30" key="SettingsEditor" timestamp="1580371421280">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
